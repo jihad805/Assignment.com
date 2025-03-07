@@ -371,8 +371,8 @@ header{
     }
     .section1 .frm{
        
-        top: -180px; 
-        left: 30px;
+        top: -200px; 
+        left: 62px;
         width: 300px;
         height: 150px;
        
@@ -401,14 +401,15 @@ header{
     
     }
     .section2 .text{
-        left: 20px;
+        left: 100px;
         top: 30px;
+        font-size: 15px;
      }
 
      .section2 .im2{
         top: 72px;
         left: 5px;
-        height: 36px;
+        height: 40px;
     }
 
     .btn6{
@@ -450,6 +451,12 @@ header{
     left: 13px;
    }
     
+   .button3 .btn5{
+   
+    left: -287px;
+    top: 60px;
+    font-size: 10px;
 
+}
 
 }
